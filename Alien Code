@@ -1,0 +1,25 @@
+{
+  "title": "The Alien Next To Me Is Scary",
+  "description": "An alien sits next to me. No other people gets close to her. When she asks me why I am nice to her, I replied 'I like you (your form)'. And the next day...",
+  "artist": "Atou Rie",
+  "author": "Atou Rie",
+  "cover": "https://i.imgur.com/vQhDk7J.jpg",
+  "chapters": {
+    "01": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/NTgRK0E/"
+      },
+      "last_updated": "1621860048"
+    },
+     "02": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/auOGuJF/"
+      },
+      "last_updated": "1623161776"
+    }
+  }
+}
